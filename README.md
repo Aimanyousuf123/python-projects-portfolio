@@ -33,6 +33,12 @@ Create a clean digital resume using user input.
 
 ---
 
+### 4️⃣ [Birthday Reminder CLI App](https://github.com/Aimanyousuf123/Birthday-Reminder-CLI-App-)
+Track and store birthdays, and check if someone has a birthday today.  
+✔ Built with Python, file handling, and `datetime` module.
+
+---
+
 ## 📚 Skills Demonstrated
 - ✅ Python Basics
 - ✅ File Handling
@@ -45,7 +51,6 @@ Create a clean digital resume using user input.
 
 ## 🌱 What's Next?
 I'm continuing to build 2 more small projects:
-- 🧮 Calculator with history
 - 📅 Birthday Reminder App
 
 Stay tuned — this portfolio is growing 💻✨
